@@ -49,5 +49,7 @@ If you have any feedback, please reach out to me
 ![App Screenshot](imagesbot/bot1.png)
 ![App Screenshot](imagesbot/bot2.png)
 ![App Screenshot](imagesbot/bot3.png)
+
+For admin
 ![App Screenshot](imagesbot/admin1.png)
 
