@@ -44,8 +44,10 @@ If you have any feedback, please reach out to me
 
 ## Screenshots
 
-![App Screenshot](imagesbot/bot1)
-![App Screenshot](imagesbot/bot2)
-![App Screenshot](imagesbot/bot3)
-![App Screenshot](imagesbot/admin1)
+## Screenshots
+
+![App Screenshot](imagesbot/bot1.png)
+![App Screenshot](imagesbot/bot2.png)
+![App Screenshot](imagesbot/bot3.png)
+![App Screenshot](imagesbot/admin1.png)
 
