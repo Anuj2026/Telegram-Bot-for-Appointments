@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 # ====== LOAD ENV ======
 load_dotenv()
 TOKEN = os.getenv("BOT_TOKEN")
-ADMIN_CHAT_ID = 1817805836
+ADMIN_CHAT_ID = <Your admin caht id>
 
 # ====== GOOGLE SHEETS SETUP ======
 SCOPE = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
@@ -240,4 +240,5 @@ def main():
     app.run_polling()
 
 if __name__ == "__main__":
+
     main()
